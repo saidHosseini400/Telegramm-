@@ -1,4 +1,4 @@
-aaMetal Edition Android App
+Metal Edition Android App
 ========
 
 This is second version of Telegram app.
