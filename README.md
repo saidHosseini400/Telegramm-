@@ -1,9 +1,9 @@
-Telegram S Edition Android App
+aaMetal Edition Android App
 ========
 
 This is second version of Telegram app.
 
-[![Telegram S](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.telegram.android "Telegram S")
+[![Metal S](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.telegram.android "Telegram S")
 
 This version based on open-source [telegram-api](https://github.com/ex3ndr/telegram-api), [mtproto](https://github.com/ex3ndr/telegram-mt) and [tl-core](https://github.com/ex3ndr/telegram-tl-core) libraries.
 
